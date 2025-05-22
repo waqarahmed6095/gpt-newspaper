@@ -10,6 +10,7 @@ dependencies = [
     "flask-cors>=6.0.0",
     "json5>=0.12.0",
     "langchain>=0.3.25",
+    "langchain-anthropic>=0.3.13",
     "langchain-community>=0.3.24",
     "langchain-openai>=0.3.17",
     "langgraph>=0.4.5",
